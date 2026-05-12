@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.13)  27 APR 2026 22:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.13)  12 MAY 2026 19:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"e:/Core/Public Directory/RHINALAB-RHINELAB/rhine-lab-docs-gh/Template_4 - ReVTeX Short Paper Format/aip/aipsamp.tex"
-(e:/Core/Public Directory/RHINALAB-RHINELAB/rhine-lab-docs-gh/Template_4 - ReVTeX Short Paper Format/aip/aipsamp.tex
+**"e:/Core/Public Directory/Laboratory/OPTIMLAB-Manu/optimlab-manuscript-1/aipsamp.tex"
+(e:/Core/Public Directory/Laboratory/OPTIMLAB-Manu/optimlab-manuscript-1/aipsamp.tex
 LaTeX2e <2025-06-01>
 L3 programming layer <2025-05-26>
 (D:\MikTek\tex/latex/revtex\revtex4-2.cls
@@ -257,108 +257,41 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \openout3 = `aipsampNotes.bib'.
 
-
-
-Class revtex4-2 Warning: The \footnote command is not legal on the title page; using \thanks instead might suit you: consult the manual for details.
-
-LaTeX Font Info:    Trying to load font information for U+msa on input line 71.
-(D:\MikTek\tex/latex/amsfonts\umsa.fd
+LaTeX Font Info:    Trying to load font information for U+msa on input line 68.
+ (D:\MikTek\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 71.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 68.
  (D:\MikTek\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OMS+cmss on input line 83.
-LaTeX Font Info:    No file OMScmss.fd. on input line 83.
-
-
-LaTeX Font Warning: Font shape `OMS/cmss/bx/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbackslash' on input line 83.
-
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 100.
-(D:\MikTek\tex/latex/base\omscmr.fd
-File: omscmr.fd 2024/11/19 v2.5n Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 100.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 122.
-
-
-Overfull \vbox (18.71628pt too high) has occurred while \output is active []
-
- [1{C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-LaTeX Font Info:    Trying to load font information for U+euf on input line 180.
- (D:\MikTek\tex/latex/amsfonts\ueuf.fd
-File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
-) [2]
-Overfull \hbox (37.13756pt too wide) in paragraph at lines 281--287
-[]\OT1/cmr/m/n/10 Enclosing single-line and mul-ti-line equa-tions in [][]\OT1/cmtt/m/n/10 \begin{subequations} []\OT1/cmr/m/n/10 and [][]\OT1/cmtt/m/n/10 \end{subequations}
+) [1{C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] (aipsamp.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 136--143
+[]\OT1/cmr/m/n/8 S. Ewen and D. Ge-of-frey, ``Front Mat-ter,'' in \OT1/cmr/m/it/8 Mod-ern Ra-man Spec-troscopy
  []
 
-[3]
-Package epstopdf Info: Source file: <fig_1.eps>
-(epstopdf)                    date: 2026-03-25 08:13:04
-(epstopdf)                    size: 187 bytes
-(epstopdf)             Output file: <fig_1-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-04-27 22:04:13
-(epstopdf)                    size: 4773 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=fig_1-eps-converted-to.pdf fig_1.eps>
-(epstopdf)             \includegraphics on input line 374.
-Package epstopdf Info: Output file is already uptodate.
-<fig_1-eps-converted-to.pdf, id=36, 100.375pt x 100.375pt>
-File: fig_1-eps-converted-to.pdf Graphic file (type pdf)
-<use fig_1-eps-converted-to.pdf>
-Package pdftex.def Info: fig_1-eps-converted-to.pdf  used on input line 374.
-(pdftex.def)             Requested size: 100.37474pt x 100.37474pt.
-Package epstopdf Info: Source file: <fig_2.eps>
-(epstopdf)                    date: 2026-03-25 08:13:04
-(epstopdf)                    size: 190 bytes
-(epstopdf)             Output file: <fig_2-eps-converted-to.pdf>
-(epstopdf)                    date: 2026-04-27 22:04:15
-(epstopdf)                    size: 5049 bytes
-(epstopdf)             Command: <miktex-epstopdf --outfile=fig_2-eps-converted-to.pdf fig_2.eps>
-(epstopdf)             \includegraphics on input line 381.
-Package epstopdf Info: Output file is already uptodate.
-<fig_2-eps-converted-to.pdf, id=37, 501.875pt x 80.3pt>
-File: fig_2-eps-converted-to.pdf Graphic file (type pdf)
-<use fig_2-eps-converted-to.pdf>
-Package pdftex.def Info: fig_2-eps-converted-to.pdf  used on input line 381.
-(pdftex.def)             Requested size: 501.87376pt x 80.29979pt.
 
-Overfull \hbox (105.87376pt too wide) in paragraph at lines 381--382
- [][] 
+Underfull \hbox (badness 10000) in paragraph at lines 136--143
+\OT1/cmr/m/it/8 - A Prac-ti-cal Ap-proach \OT1/cmr/m/n/8 (John Wi-ley & Sons, Ltd, 2004) pp. i--xi, []eprint:
  []
 
-[4]
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 442.
- [5 <./fig_1-eps-converted-to.pdf> <./fig_2-eps-converted-to.pdf>] [6] (aipsamp.bbl [7] [8]) [9] (aipsamp.aux)
+) [4] (aipsamp.aux)
  ***********
 LaTeX2e <2025-06-01>
 L3 programming layer <2025-05-26>
  ***********
-
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
  ) 
 Here is how much of TeX's memory you used:
- 5229 strings out of 468187
- 72941 string characters out of 5448666
- 508150 words of memory out of 5000000
- 33697 multiletter control sequences out of 15000+600000
- 646288 words of font info for 112 fonts, out of 8000000 for 9000
+ 4896 strings out of 468187
+ 67071 string characters out of 5448666
+ 481255 words of memory out of 5000000
+ 33384 multiletter control sequences out of 15000+600000
+ 641543 words of font info for 93 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 71i,16n,79p,543b,455s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<D:/MikTek/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmbx7.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmbx8.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmmi6.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmmi9.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmmib10.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmr5.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmss10.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmss8.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmsy7.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmsy9.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmti8.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmti9.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmtt10.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmtt8.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmtt9.pfb><D:/MikTek/fonts/type1/public/amsfonts/euler/eufm10.pfb><D:/MikTek/fonts/type1/public/amsfonts/symbols/msam10.pfb><D:/MikTek/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on aipsamp.pdf (9 pages, 431046 bytes).
+ 71i,5n,79p,1800b,257s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<D:/MikTek/fonts/type1/public/amsfonts/cm/cmbx8.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmr9.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmss10.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmti8.pfb><D:/MikTek/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on aipsamp.pdf (4 pages, 158406 bytes).
 PDF statistics:
- 209 PDF objects out of 1000 (max. 8388607)
+ 70 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
